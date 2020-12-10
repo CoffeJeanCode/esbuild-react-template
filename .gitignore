@@ -1,0 +1,14 @@
+# deps
+node_modules
+
+# prod
+dist
+build
+
+# source files
+.map.js
+.map.css
+
+# lock files
+yarn.lock
+package-lock.json

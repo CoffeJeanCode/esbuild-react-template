@@ -8,7 +8,8 @@
   },
   "devDependencies": {
     "chokidar": "^3.4.3",
-    "servor": "^4.0.2"
+    "servor": "^4.0.2",
+    "esbuild": "^0.8.21"
   },
   "scripts": {
     "build": "node scripts/build",
